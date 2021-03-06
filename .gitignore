@@ -1,0 +1,5 @@
+/.vscode
+/archive
+*.dll
+*.obj
+*.exe

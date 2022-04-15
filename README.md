@@ -7,6 +7,9 @@
 The program was run after hours, that's why 'buy' and 'sell' columns are empty.
 
 ## Note
+[2022-04-15] - Avanza has updated their website thus the regex expressions now needs to be rewritten in order for the script to work.
+
+## Python Version
 If you just want to use the program may i suggest the python version instead [https://github.com/qulle/avanza-fetcher-py](https://github.com/qulle/avanza-fetcher-py). But if you are in for a challenge, keep on reading and we will build OpenSSL and compile this program to work together with OpenSSL.
 
 # Installation
